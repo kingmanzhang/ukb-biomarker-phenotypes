@@ -21,4 +21,4 @@ contents <- reduce(contents, bind_rows)
 contents <- contents %>% 
   relocate(biomarker, .before = everything())
 
-write_csv(contents, file = 'combined.csv')
+write_csv(contents, file = 'spiros_ukb_biomarkers_combined.csv')
