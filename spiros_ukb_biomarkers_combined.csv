@@ -36,6 +36,11 @@ Basophills,ctv3,42LZ.,Basophil count NOS
 Basophills,ctv3,42L1.,Basophil count normal
 Basophills,read2,42L3.00,Basophil count abnormal
 Basophills,read2,42L2.00,Basophilia
+BP,read2,246..00,O/E - blood pressure reading
+BP,read2,2469.00,O/E - Systolic BP reading
+BP,read2,246A.00,O/E - Diastolic BP reading
+BP,ctv3,2469.00,O/E - Systolic BP reading
+BP,ctv3,246A.00,O/E - Diastolic BP reading
 Calcium,read2,44I8.00,Serum calcium
 Calcium,read2,44I8000,Normal serum calcium level
 Calcium,ctv3,XE2q3,Serum calcium
@@ -279,6 +284,370 @@ RBC,read2,4262.00,RBC count borderline low
 RBC,read2,4264.00,RBC count raised
 RBC,read2,4267.00,RBC count abnormal
 RBC,read2,4265.00,RBC count borderline raised
+spiros_ukb_biomarkers_combined,read2,44M4.00,Serum albumin
+spiros_ukb_biomarkers_combined,read2,44M4000,Serum albumin normal
+spiros_ukb_biomarkers_combined,read2,44M4100,Serum albumin low
+spiros_ukb_biomarkers_combined,ctv3,XE2eA,Serum albumin
+spiros_ukb_biomarkers_combined,ctv3,XE2eA,Serum albumin level
+spiros_ukb_biomarkers_combined,ctv3,44M40,Serum albumin normal
+spiros_ukb_biomarkers_combined,ctv3,44M41,Serum albumin low
+spiros_ukb_biomarkers_combined,read2,44F..00,Serum alkaline phosphatase
+spiros_ukb_biomarkers_combined,read2,44F3.00,Total alkaline phosphatase
+spiros_ukb_biomarkers_combined,read2,44FZ.00,Serum alkaline phosphatase NOS
+spiros_ukb_biomarkers_combined,read2,44F1.00,Serum alk. phos. normal
+spiros_ukb_biomarkers_combined,read2,44F2.00,Serum alk. phos. raised
+spiros_ukb_biomarkers_combined,ctv3,XE2px,Serum alkaline phosphatase
+spiros_ukb_biomarkers_combined,ctv3,XE2px,Serum alkaline phosphatase level
+spiros_ukb_biomarkers_combined,ctv3,44F3.,Alkaline phosphatase level
+spiros_ukb_biomarkers_combined,ctv3,44FZ.,Serum alkaline phosphatase NOS
+spiros_ukb_biomarkers_combined,ctv3,44F1.,Serum alk. phos. normal
+spiros_ukb_biomarkers_combined,ctv3,44F2.,Serum alk. phos. raised
+spiros_ukb_biomarkers_combined,read2,44G3.00,ALT/SGPT serum level
+spiros_ukb_biomarkers_combined,read2,44GB.00,Serum alanine aminotransferase level
+spiros_ukb_biomarkers_combined,read2,44G..11,ALT - blood level
+spiros_ukb_biomarkers_combined,read2,44G3000,ALT/SGPT level normal
+spiros_ukb_biomarkers_combined,read2,44G3100,ALT/SGPT level abnormal
+spiros_ukb_biomarkers_combined,ctv3,44G3.,ALT/SGPT serum level
+spiros_ukb_biomarkers_combined,ctv3,XaLJx,Serum alanine aminotransferase level
+spiros_ukb_biomarkers_combined,ctv3,X771f,ALT - blood level
+spiros_ukb_biomarkers_combined,ctv3,X771e,SGPT - blood level
+spiros_ukb_biomarkers_combined,ctv3,44G30,ALT.SGPT level normal
+spiros_ukb_biomarkers_combined,ctv3,44G31,ALT.SGPT level abnormal
+spiros_ukb_biomarkers_combined,read2,42L..00,Basophil count
+spiros_ukb_biomarkers_combined,read2,42LZ.00,Basophil count NOS
+spiros_ukb_biomarkers_combined,read2,42L1.00,Basophil count normal
+spiros_ukb_biomarkers_combined,ctv3,42L..,Basophil count
+spiros_ukb_biomarkers_combined,ctv3,42LZ.,Basophil count NOS
+spiros_ukb_biomarkers_combined,ctv3,42L1.,Basophil count normal
+spiros_ukb_biomarkers_combined,read2,42L3.00,Basophil count abnormal
+spiros_ukb_biomarkers_combined,read2,42L2.00,Basophilia
+spiros_ukb_biomarkers_combined,read2,44I8.00,Serum calcium
+spiros_ukb_biomarkers_combined,read2,44I8000,Normal serum calcium level
+spiros_ukb_biomarkers_combined,ctv3,XE2q3,Serum calcium
+spiros_ukb_biomarkers_combined,ctv3,XE2q3,Serum calcium level
+spiros_ukb_biomarkers_combined,ctv3,44I80,Normal serum calcium level
+spiros_ukb_biomarkers_combined,ctv3,Xabpk,Serum adjusted calcium concentration
+spiros_ukb_biomarkers_combined,read2,44h4.00,Blood calcium level
+spiros_ukb_biomarkers_combined,read2,44P..00,Serum cholesterol
+spiros_ukb_biomarkers_combined,read2,44PJ.00,Serum total cholesterol level
+spiros_ukb_biomarkers_combined,read2,44PH.00,Total cholesterol measurement
+spiros_ukb_biomarkers_combined,read2,44P3.00,Serum cholesterol raised
+spiros_ukb_biomarkers_combined,read2,44P1.00,Serum cholesterol normal
+spiros_ukb_biomarkers_combined,read2,44PZ.00,Serum cholesterol NOS
+spiros_ukb_biomarkers_combined,read2,44P9.00,Serum cholesterol studies
+spiros_ukb_biomarkers_combined,read2,44P2.00,Serum cholesterol borderline
+spiros_ukb_biomarkers_combined,read2,44PK.00,Serum fasting total cholesterol
+spiros_ukb_biomarkers_combined,read2,44P4.00,Serum cholesterol very high
+spiros_ukb_biomarkers_combined,ctv3,XE2eD,Serum cholesterol
+spiros_ukb_biomarkers_combined,ctv3,XE2eD,Serum cholesterol level
+spiros_ukb_biomarkers_combined,ctv3,XaJe9,Serum total cholesterol level
+spiros_ukb_biomarkers_combined,ctv3,XSK14,Total cholesterol measurement
+spiros_ukb_biomarkers_combined,ctv3,44P3.,Serum cholesterol raised
+spiros_ukb_biomarkers_combined,ctv3,44P1.,Serum cholesterol normal
+spiros_ukb_biomarkers_combined,ctv3,44PZ.,Serum cholesterol NOS
+spiros_ukb_biomarkers_combined,ctv3,44P9.,Serum cholesterol studies
+spiros_ukb_biomarkers_combined,ctv3,44P2.,Serum cholesterol borderline
+spiros_ukb_biomarkers_combined,ctv3,XaLux,Serum fasting total cholesterol
+spiros_ukb_biomarkers_combined,ctv3,44P4.,Serum cholesterol very high
+spiros_ukb_biomarkers_combined,read2,44J3.00,Serum creatinine
+spiros_ukb_biomarkers_combined,read2,44J3200,Serum creatinine normal
+spiros_ukb_biomarkers_combined,read2,44J3z00,Serum creatinine NOS
+spiros_ukb_biomarkers_combined,read2,44J3300,Serum creatinine raised
+spiros_ukb_biomarkers_combined,read2,44JD.00,Corrected serum creatinine level
+spiros_ukb_biomarkers_combined,read2,44JC.00,Corrected plasma creatinine level
+spiros_ukb_biomarkers_combined,read2,44J3100,Serum creatinine low
+spiros_ukb_biomarkers_combined,read2,44J3000,Serum creatinine abnormal
+spiros_ukb_biomarkers_combined,ctv3,XE2q5,Serum creatinine
+spiros_ukb_biomarkers_combined,ctv3,XE2q5,Serum creatinine level
+spiros_ukb_biomarkers_combined,ctv3,44J32,Serum creatinine normal
+spiros_ukb_biomarkers_combined,ctv3,44J3z,Serum creatinine NOS
+spiros_ukb_biomarkers_combined,ctv3,44J33,Serum creatinine raised
+spiros_ukb_biomarkers_combined,ctv3,XaERc,Corrected serum creatinine level
+spiros_ukb_biomarkers_combined,ctv3,XaERX,Corrected plasma creatinine level
+spiros_ukb_biomarkers_combined,ctv3,44J31,Serum creatinine low
+spiros_ukb_biomarkers_combined,ctv3,44J30,Serum creatinine abnormal
+spiros_ukb_biomarkers_combined,read2,44CS.00,Serum C reactive protein level
+spiros_ukb_biomarkers_combined,read2,44CC000,C reactive protein normal
+spiros_ukb_biomarkers_combined,read2,44CC100,C reactive protein abnormal
+spiros_ukb_biomarkers_combined,ctv3,XaINL,Serum C reactive protein level
+spiros_ukb_biomarkers_combined,ctv3,44CC0,C-reactive protein normal
+spiros_ukb_biomarkers_combined,ctv3,44CC1,C-reactive protein abnormal
+spiros_ukb_biomarkers_combined,read2,42K..00,Eosinophil count
+spiros_ukb_biomarkers_combined,read2,42KZ.00,Eosinophil count NOS
+spiros_ukb_biomarkers_combined,read2,42K1.00,Eosinophil count normal
+spiros_ukb_biomarkers_combined,read2,42K3.00,Eosinophil count raised
+spiros_ukb_biomarkers_combined,ctv3,42K..,Eosinophil count
+spiros_ukb_biomarkers_combined,ctv3,42KZ.,Eosinophil count NOS
+spiros_ukb_biomarkers_combined,ctv3,42K1.,Eosinophil count normal
+spiros_ukb_biomarkers_combined,ctv3,42K3.,Eosinophil count raised
+spiros_ukb_biomarkers_combined,read2,42K2.00,Eosinopenia
+spiros_ukb_biomarkers_combined,read2,339O.00,Forced expired volume in 1 second
+spiros_ukb_biomarkers_combined,read2,3397.00,Forced expiratory volume - FEV
+spiros_ukb_biomarkers_combined,read2,339a.00,FEV1 before bronchodilation
+spiros_ukb_biomarkers_combined,read2,3397000,FEV normal
+spiros_ukb_biomarkers_combined,ctv3,X77Qu,Forced expired volume in 1 second
+spiros_ukb_biomarkers_combined,ctv3,XaIxQ,FEV1 before bronchodilation
+spiros_ukb_biomarkers_combined,ctv3,33970,FEV normal
+spiros_ukb_biomarkers_combined,read2,3396.00,Forced vital capacity - FVC
+spiros_ukb_biomarkers_combined,read2,3396000,FVC - forced vital capacity normal
+spiros_ukb_biomarkers_combined,read2,3396100,FVC - forced vital capacity abnormal
+spiros_ukb_biomarkers_combined,ctv3,3396.,Forced vital capacity
+spiros_ukb_biomarkers_combined,ctv3,33960,FVC - forced vital capacity normal
+spiros_ukb_biomarkers_combined,ctv3,33961,FVC - forced vital capacity abnormal
+spiros_ukb_biomarkers_combined,read2,339s.00,Forced vital capacity before bronchodilation
+spiros_ukb_biomarkers_combined,read2,44g..00,Plasma glucose level
+spiros_ukb_biomarkers_combined,read2,44g0.00,Plasma random glucose level
+spiros_ukb_biomarkers_combined,ctv3,XM0ly,Plasma glucose level
+spiros_ukb_biomarkers_combined,ctv3,44g0.,Plasma random glucose level
+spiros_ukb_biomarkers_combined,read2,44U..00,Blood glucose result
+spiros_ukb_biomarkers_combined,read2,44TJ.00,Blood glucose level
+spiros_ukb_biomarkers_combined,read2,44U..11,Blood sugar result
+spiros_ukb_biomarkers_combined,read2,44TA.00,Plasma glucose
+spiros_ukb_biomarkers_combined,read2,44U4.00,Blood glucose 5-6.9 mmol/L
+spiros_ukb_biomarkers_combined,read2,44T1000,Random blood sugar normal
+spiros_ukb_biomarkers_combined,read2,44U3.00,Blood glucose 2.5-4.9 mmol/L
+spiros_ukb_biomarkers_combined,read2,44U8.00,Blood glucose normal
+spiros_ukb_biomarkers_combined,read2,44U5.00,Blood glucose 7-9.9 mmol/L
+spiros_ukb_biomarkers_combined,read2,44U..12,Plasma glucose level
+spiros_ukb_biomarkers_combined,read2,44U6.00,Blood glucose 10-13.9 mmol/L
+spiros_ukb_biomarkers_combined,read2,44T5.00,Laboratory blood sugar
+spiros_ukb_biomarkers_combined,read2,4258.00,Haematocrit
+spiros_ukb_biomarkers_combined,read2,4257.00,Packed cell volume
+spiros_ukb_biomarkers_combined,read2,425..00,Haematocrit - PCV
+spiros_ukb_biomarkers_combined,read2,425..11,Packed cell volume - PCV
+spiros_ukb_biomarkers_combined,read2,425Z.00,Haematocrit - PCV - NOS
+spiros_ukb_biomarkers_combined,read2,4254.00,Haematocrit - PCV - low
+spiros_ukb_biomarkers_combined,read2,4251.00,Haematocrit - PCV - normal
+spiros_ukb_biomarkers_combined,ctv3,X76tb,Haematocrit
+spiros_ukb_biomarkers_combined,ctv3,X76tc,Packed cell volume
+spiros_ukb_biomarkers_combined,ctv3,XE2Zq,Haematocrit - PCV
+spiros_ukb_biomarkers_combined,ctv3,XE2Zq,Haematocrit - PCV level
+spiros_ukb_biomarkers_combined,ctv3,425Z.,Haematocrit - PCV - NOS
+spiros_ukb_biomarkers_combined,ctv3,4254.,Haematocrit - PCV - low
+spiros_ukb_biomarkers_combined,ctv3,4251.,Haematocrit - PCV - normal
+spiros_ukb_biomarkers_combined,read2,4255.00,Haematocrit - borderline low
+spiros_ukb_biomarkers_combined,read2,4253.00,Haematocrit - PCV - high
+spiros_ukb_biomarkers_combined,read2,4256.00,Haematocrit - PCV - abnormal
+spiros_ukb_biomarkers_combined,read2,4252.00,Haematocrit - borderline high
+spiros_ukb_biomarkers_combined,read2,423..00,Haemoglobin estimation
+spiros_ukb_biomarkers_combined,read2,423..11,Hb estimation
+spiros_ukb_biomarkers_combined,read2,4237.00,Haemoglobin normal
+spiros_ukb_biomarkers_combined,read2,4235.00,Haemoglobin low
+spiros_ukb_biomarkers_combined,read2,423Z.00,Haemoglobin estimation NOS
+spiros_ukb_biomarkers_combined,read2,4239.00,Haemoglobin high
+spiros_ukb_biomarkers_combined,read2,4236.00,Haemoglobin borderline low
+spiros_ukb_biomarkers_combined,read2,4234.00,Haemoglobin very low
+spiros_ukb_biomarkers_combined,read2,423B.00,Haemoglobin abnormal
+spiros_ukb_biomarkers_combined,ctv3,Xa96v,Haemoglobin concentration
+spiros_ukb_biomarkers_combined,ctv3,XE2m6,Haemoglobin estimation
+spiros_ukb_biomarkers_combined,ctv3,XM1Vu,Hb estimation
+spiros_ukb_biomarkers_combined,ctv3,4237.,Haemoglobin normal
+spiros_ukb_biomarkers_combined,ctv3,4235.,Haemoglobin low
+spiros_ukb_biomarkers_combined,ctv3,423Z.,Haemoglobin estimation NOS
+spiros_ukb_biomarkers_combined,ctv3,4239.,Haemoglobin high
+spiros_ukb_biomarkers_combined,ctv3,4236.,Haemoglobin borderline low
+spiros_ukb_biomarkers_combined,ctv3,X76ti,Haemoglobin H inclusion
+spiros_ukb_biomarkers_combined,ctv3,4234.,Haemoglobin very low
+spiros_ukb_biomarkers_combined,ctv3,423B.,Haemoglobin abnormal
+spiros_ukb_biomarkers_combined,read2,4238.00,Haemoglobin borderline high
+spiros_ukb_biomarkers_combined,read2,423A.00,Haemoglobin very high
+spiros_ukb_biomarkers_combined,read2,42W5.00,Haemoglobin A1c level - IFCC standardised
+spiros_ukb_biomarkers_combined,read2,42W4.00,HbA1c level (DCCT aligned)
+spiros_ukb_biomarkers_combined,read2,42W..00,Hb. A1C - diabetic control
+spiros_ukb_biomarkers_combined,read2,42W..11,Glycosylated Hb
+spiros_ukb_biomarkers_combined,read2,42W..12,Glycated haemoglobin
+spiros_ukb_biomarkers_combined,read2,42W2.00,Hb. A1C 7-10% - borderline
+spiros_ukb_biomarkers_combined,read2,42W1.00,Hb. A1C < 7% - good control
+spiros_ukb_biomarkers_combined,read2,42WZ.00,Hb. A1C - diabetic control NOS
+spiros_ukb_biomarkers_combined,read2,42W3.00,Hb. A1C > 10% - bad control
+spiros_ukb_biomarkers_combined,ctv3,XaPbt,Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+spiros_ukb_biomarkers_combined,ctv3,XaERp,HbA1c level (DCCT aligned)
+spiros_ukb_biomarkers_combined,ctv3,XE24t,Hb. A1C - diabetic control
+spiros_ukb_biomarkers_combined,ctv3,X80U3,Glycated haemoglobin
+spiros_ukb_biomarkers_combined,ctv3,X80U3,Glycosylated Hb
+spiros_ukb_biomarkers_combined,ctv3,42W2.,Hb. A1C 7-10% - borderline
+spiros_ukb_biomarkers_combined,ctv3,42W1.,Hb. A1C < 7% - good control
+spiros_ukb_biomarkers_combined,ctv3,42WZ.,Hb. A1C - diabetic control NOS
+spiros_ukb_biomarkers_combined,ctv3,42W3.,Hb. A1C > 10% - bad control
+spiros_ukb_biomarkers_combined,read2,44TB.00,Haemoglobin A1c level
+spiros_ukb_biomarkers_combined,read2,42c..00,HbA1 - diabetic control
+spiros_ukb_biomarkers_combined,read2,42c3.00,HbA1 level (DCCT aligned)
+spiros_ukb_biomarkers_combined,read2,42c1.00,HbA1 7 - 10% - borderline control
+spiros_ukb_biomarkers_combined,read2,42c0.00,HbA1 < 7% - good control
+spiros_ukb_biomarkers_combined,read2,44TC.00,Haemoglobin A1 level
+spiros_ukb_biomarkers_combined,read2,42c2.00,HbA1 > 10% - bad control
+spiros_ukb_biomarkers_combined,read2,44P5.00,Serum HDL cholesterol level
+spiros_ukb_biomarkers_combined,read2,44PB.00,Serum fasting HDL cholesterol level
+spiros_ukb_biomarkers_combined,read2,44PC.00,Serum random HDL cholesterol level
+spiros_ukb_biomarkers_combined,ctv3,44P5.,Serum HDL cholesterol level
+spiros_ukb_biomarkers_combined,ctv3,44PB.,Serum fasting HDL cholesterol level
+spiros_ukb_biomarkers_combined,ctv3,44PC.,Serum random HDL cholesterol level
+spiros_ukb_biomarkers_combined,read2,229..00,O/E - height
+spiros_ukb_biomarkers_combined,read2,229Z.00,O/E - height NOS
+spiros_ukb_biomarkers_combined,read2,2293.00,O/E -height within 10% average
+spiros_ukb_biomarkers_combined,ctv3,229..,O/E - height
+spiros_ukb_biomarkers_combined,ctv3,229Z.,O/E - height NOS
+spiros_ukb_biomarkers_combined,ctv3,2293.,O/E -height within 10% average
+spiros_ukb_biomarkers_combined,read2,42M..00,Lymphocyte count
+spiros_ukb_biomarkers_combined,read2,42MZ.00,Lymphocyte count NOS
+spiros_ukb_biomarkers_combined,read2,42M1.00,Lymphocyte count normal
+spiros_ukb_biomarkers_combined,read2,42M4.00,Abnormal lymphocytes
+spiros_ukb_biomarkers_combined,ctv3,42M..,Lymphocyte count
+spiros_ukb_biomarkers_combined,ctv3,42MZ.,Lymphocyte count NOS
+spiros_ukb_biomarkers_combined,ctv3,42M1.,Lymphocyte count normal
+spiros_ukb_biomarkers_combined,read2,429..00,Mean corpusc. Hb. conc. (MCHC)
+spiros_ukb_biomarkers_combined,read2,429Z.00,MCHC - NOS
+spiros_ukb_biomarkers_combined,read2,4291.00,MCHC - normal
+spiros_ukb_biomarkers_combined,ctv3,429..,Mean cell haemoglobin concentration
+spiros_ukb_biomarkers_combined,ctv3,429Z.,MCHC - NOS
+spiros_ukb_biomarkers_combined,ctv3,4291.,MCHC - normal
+spiros_ukb_biomarkers_combined,read2,4294.00,MCHC - raised
+spiros_ukb_biomarkers_combined,read2,4293.00,MCHC - low
+spiros_ukb_biomarkers_combined,read2,4292.00,MCHC - borderline low
+spiros_ukb_biomarkers_combined,read2,4295.00,MCHC - borderline raised
+spiros_ukb_biomarkers_combined,read2,42A..00,Mean corpuscular volume (MCV)
+spiros_ukb_biomarkers_combined,read2,42A..11,Mean cell volume
+spiros_ukb_biomarkers_combined,read2,42AZ.00,MCV - NOS
+spiros_ukb_biomarkers_combined,read2,42A1.00,MCV - normal
+spiros_ukb_biomarkers_combined,read2,42A3.00,MCV - raised
+spiros_ukb_biomarkers_combined,read2,42A4.00,MCV - low
+spiros_ukb_biomarkers_combined,ctv3,42A..,Mean cell volume
+spiros_ukb_biomarkers_combined,ctv3,42AZ.,MCV - NOS
+spiros_ukb_biomarkers_combined,ctv3,42A1.,MCV - normal
+spiros_ukb_biomarkers_combined,ctv3,42A3.,MCV - raised
+spiros_ukb_biomarkers_combined,ctv3,42A4.,MCV - low
+spiros_ukb_biomarkers_combined,read2,42A2.00,MCV - borderline raised
+spiros_ukb_biomarkers_combined,read2,42A5.00,MCV - borderline low
+spiros_ukb_biomarkers_combined,read2,42N..00,Monocyte count
+spiros_ukb_biomarkers_combined,read2,42NZ.00,Monocyte count NOS
+spiros_ukb_biomarkers_combined,read2,42N1.00,Monocyte count normal
+spiros_ukb_biomarkers_combined,read2,42N5.00,Monocyte count abnormal
+spiros_ukb_biomarkers_combined,ctv3,42N..,Monocyte count
+spiros_ukb_biomarkers_combined,ctv3,42NZ.,Monocyte count NOS
+spiros_ukb_biomarkers_combined,ctv3,42N1.,Monocyte count normal
+spiros_ukb_biomarkers_combined,ctv3,42N5.,Monocyte count abnormal
+spiros_ukb_biomarkers_combined,read2,42N2.00,Monocyte count raised
+spiros_ukb_biomarkers_combined,read2,42J..00,Neutrophil count
+spiros_ukb_biomarkers_combined,read2,42JZ.00,Neutrophil count NOS
+spiros_ukb_biomarkers_combined,read2,42J..11,Granulocyte count
+spiros_ukb_biomarkers_combined,read2,42J2.00,Neutropenia
+spiros_ukb_biomarkers_combined,read2,42J1.00,Neutrophil count normal
+spiros_ukb_biomarkers_combined,read2,42J3.00,Neutrophilia
+spiros_ukb_biomarkers_combined,read2,42J4.00,Neutrophil count abnormal
+spiros_ukb_biomarkers_combined,ctv3,42J..,Neutrophil count
+spiros_ukb_biomarkers_combined,ctv3,42JZ.,Neutrophil count NOS
+spiros_ukb_biomarkers_combined,ctv3,42J2.,Neutropenia
+spiros_ukb_biomarkers_combined,ctv3,42J1.,Neutrophil count normal
+spiros_ukb_biomarkers_combined,ctv3,42J3.,Neutrophilia
+spiros_ukb_biomarkers_combined,ctv3,42J4.,Neutrophil count abnormal
+spiros_ukb_biomarkers_combined,read2,42P..00,Platelet count
+spiros_ukb_biomarkers_combined,read2,42P1.00,Platelet count normal
+spiros_ukb_biomarkers_combined,read2,42PZ.00,Platelet count NOS
+spiros_ukb_biomarkers_combined,read2,42P2.00,Thrombocytopenia
+spiros_ukb_biomarkers_combined,read2,42P3.00,Thrombocythaemia
+spiros_ukb_biomarkers_combined,read2,42P4.00,Platelet count abnormal
+spiros_ukb_biomarkers_combined,ctv3,42P..,Platelet count
+spiros_ukb_biomarkers_combined,ctv3,42P1.,Platelet count normal
+spiros_ukb_biomarkers_combined,ctv3,42PZ.,Platelet count NOS
+spiros_ukb_biomarkers_combined,ctv3,XE24o,Thrombocytopenia
+spiros_ukb_biomarkers_combined,ctv3,42P3.,Thrombocythaemia
+spiros_ukb_biomarkers_combined,ctv3,42P4.,Platelet count abnormal
+spiros_ukb_biomarkers_combined,read2,426..00,Red blood cell (RBC) count
+spiros_ukb_biomarkers_combined,read2,426Z.00,RBC count NOS
+spiros_ukb_biomarkers_combined,read2,4261.00,RBC count normal
+spiros_ukb_biomarkers_combined,read2,4263.00,RBC count low
+spiros_ukb_biomarkers_combined,ctv3,426..,Red blood cell count
+spiros_ukb_biomarkers_combined,ctv3,426Z.,RBC count NOS
+spiros_ukb_biomarkers_combined,ctv3,4261.,RBC count normal
+spiros_ukb_biomarkers_combined,ctv3,4263.,RBC count low
+spiros_ukb_biomarkers_combined,read2,4262.00,RBC count borderline low
+spiros_ukb_biomarkers_combined,read2,4264.00,RBC count raised
+spiros_ukb_biomarkers_combined,read2,4267.00,RBC count abnormal
+spiros_ukb_biomarkers_combined,read2,4265.00,RBC count borderline raised
+spiros_ukb_biomarkers_combined,read2,44EC.00,Serum total bilirubin level
+spiros_ukb_biomarkers_combined,read2,44E..00,Serum bilirubin level
+spiros_ukb_biomarkers_combined,read2,44E3.00,Total bilirubin
+spiros_ukb_biomarkers_combined,read2,44E1.00,Serum bilirubin normal
+spiros_ukb_biomarkers_combined,read2,44EZ.00,Serum bilirubin NOS
+spiros_ukb_biomarkers_combined,read2,44E2.00,Serum bilirubin raised
+spiros_ukb_biomarkers_combined,read2,44E6.00,Serum bilirubin borderline
+spiros_ukb_biomarkers_combined,ctv3,XaERu,Serum total bilirubin level
+spiros_ukb_biomarkers_combined,ctv3,44E..,Serum bilirubin level
+spiros_ukb_biomarkers_combined,ctv3,XE2qu,Total bilirubin level
+spiros_ukb_biomarkers_combined,ctv3,XE2qu,Total bilirubin
+spiros_ukb_biomarkers_combined,ctv3,44E1.,Serum bilirubin normal
+spiros_ukb_biomarkers_combined,ctv3,44EZ.,Serum bilirubin NOS
+spiros_ukb_biomarkers_combined,ctv3,44E2.,Serum bilirubin raised
+spiros_ukb_biomarkers_combined,ctv3,44E6.,Serum bilirubin borderline
+spiros_ukb_biomarkers_combined,read2,44Q..00,Serum triglycerides
+spiros_ukb_biomarkers_combined,read2,44Q4.00,Serum fasting triglyceride level
+spiros_ukb_biomarkers_combined,read2,44Q5.00,Serum random triglyceride level
+spiros_ukb_biomarkers_combined,read2,44QZ.00,Serum triglycerides NOS
+spiros_ukb_biomarkers_combined,read2,44Q1.00,Serum triglycerides normal
+spiros_ukb_biomarkers_combined,read2,44Q3.00,Serum triglycerides raised
+spiros_ukb_biomarkers_combined,read2,44Q2.00,Serum triglycerides borderline
+spiros_ukb_biomarkers_combined,ctv3,XE2q9,Serum triglycerides
+spiros_ukb_biomarkers_combined,ctv3,XE2q9,Serum triglyceride levels
+spiros_ukb_biomarkers_combined,ctv3,44Q4.,Serum fasting triglyceride level
+spiros_ukb_biomarkers_combined,ctv3,44Q5.,Serum random triglyceride level
+spiros_ukb_biomarkers_combined,ctv3,44QZ.,Serum triglycerides NOS
+spiros_ukb_biomarkers_combined,ctv3,44Q1.,Serum triglycerides normal
+spiros_ukb_biomarkers_combined,ctv3,44Q3.,Serum triglycerides raised
+spiros_ukb_biomarkers_combined,ctv3,44Q2.,Serum triglycerides borderline
+spiros_ukb_biomarkers_combined,read2,44J9.00,Serum urea level
+spiros_ukb_biomarkers_combined,read2,44J8.00,Blood urea
+spiros_ukb_biomarkers_combined,read2,44J..11,Urea - blood
+spiros_ukb_biomarkers_combined,read2,44JA.00,Plasma urea level
+spiros_ukb_biomarkers_combined,read2,44J..00,Blood urea/renal function
+spiros_ukb_biomarkers_combined,read2,44J1.00,Blood urea normal
+spiros_ukb_biomarkers_combined,read2,44J2.00,Blood urea abnormal
+spiros_ukb_biomarkers_combined,read2,44J..13,Serum urea level
+spiros_ukb_biomarkers_combined,read2,44JZ.00,Blood urea/renal function NOS
+spiros_ukb_biomarkers_combined,read2,44J8.11,Urea - blood
+spiros_ukb_biomarkers_combined,ctv3,XM0lt,Serum urea level
+spiros_ukb_biomarkers_combined,ctv3,X771P,Blood urea
+spiros_ukb_biomarkers_combined,ctv3,X771P,Urea - blood
+spiros_ukb_biomarkers_combined,ctv3,XaDvl,Plasma urea level
+spiros_ukb_biomarkers_combined,ctv3,44J1.,Blood urea normal
+spiros_ukb_biomarkers_combined,ctv3,44J2.,Blood urea abnormal
+spiros_ukb_biomarkers_combined,ctv3,44JZ.,Blood urea/renal function NOS
+spiros_ukb_biomarkers_combined,read2,42H..00,Total white cell count
+spiros_ukb_biomarkers_combined,read2,42H..11,White blood count
+spiros_ukb_biomarkers_combined,read2,42H..12,White cell count
+spiros_ukb_biomarkers_combined,read2,42H7.00,Total white blood count
+spiros_ukb_biomarkers_combined,read2,42H1.00,White cell count normal
+spiros_ukb_biomarkers_combined,read2,42HZ.00,Total white cell count NOS
+spiros_ukb_biomarkers_combined,read2,42H3.00,Leucocytosis -high white count
+spiros_ukb_biomarkers_combined,read2,42H8.00,Total WBC (IMM)
+spiros_ukb_biomarkers_combined,read2,42H2.00,Leucopenia - low white count
+spiros_ukb_biomarkers_combined,read2,42H5.00,White cell count abnormal
+spiros_ukb_biomarkers_combined,ctv3,XaIdY,Total white blood count
+spiros_ukb_biomarkers_combined,ctv3,42H..,White blood cell count
+spiros_ukb_biomarkers_combined,ctv3,42H..,White blood cell count - observation
+spiros_ukb_biomarkers_combined,ctv3,42H1.,White cell count normal
+spiros_ukb_biomarkers_combined,ctv3,42H3.,Leucocytosis
+spiros_ukb_biomarkers_combined,ctv3,42HZ.,Total white cell count NOS
+spiros_ukb_biomarkers_combined,ctv3,XaIdZ,Total WBC (IMM)
+spiros_ukb_biomarkers_combined,ctv3,42H2.,Leucopenia
+spiros_ukb_biomarkers_combined,ctv3,42H5.,White cell count abnormal
+spiros_ukb_biomarkers_combined,read2,22A..00,O/E - weight
+spiros_ukb_biomarkers_combined,read2,22AZ.00,O/E - weight NOS
+spiros_ukb_biomarkers_combined,read2,22A4.00,O/E - weight 10-20% over ideal
+spiros_ukb_biomarkers_combined,read2,22A3.00,O/E - weight within 10% ideal
+spiros_ukb_biomarkers_combined,read2,22A5.00,O/E - weight > 20% over ideal
+spiros_ukb_biomarkers_combined,read2,22A4.11,O/E - overweight
+spiros_ukb_biomarkers_combined,read2,22A5.11,O/E - obese
+spiros_ukb_biomarkers_combined,read2,22A6.00,O/E - Underweight
+spiros_ukb_biomarkers_combined,ctv3,22A..,O/E - weight
+spiros_ukb_biomarkers_combined,ctv3,22AZ.,O/E - weight NOS
+spiros_ukb_biomarkers_combined,ctv3,XE1h3,O/E - weight 10-20% over ideal
+spiros_ukb_biomarkers_combined,ctv3,XM1YD,O/E - overweight
+spiros_ukb_biomarkers_combined,ctv3,22A3.,O/E - weight within 10% ideal
+spiros_ukb_biomarkers_combined,ctv3,222A.,O/E - obese
+spiros_ukb_biomarkers_combined,ctv3,22A6.,O/E - Underweight
+spiros_ukb_biomarkers_combined,read2,1622.00,Weight increasing
+spiros_ukb_biomarkers_combined,read2,22A2.00,O/E -weight 10-20% below ideal
+spiros_ukb_biomarkers_combined,read2,22A1.00,O/E - weight > 20% below ideal
 Totalbilirubin,read2,44EC.00,Serum total bilirubin level
 Totalbilirubin,read2,44E..00,Serum bilirubin level
 Totalbilirubin,read2,44E3.00,Total bilirubin

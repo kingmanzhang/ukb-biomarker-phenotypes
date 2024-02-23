@@ -1,0 +1,6 @@
+terminology,readcode,readterm
+read2,246..00,O/E - blood pressure reading
+read2,2469.00,O/E - Systolic BP reading
+read2,246A.00,O/E - Diastolic BP reading
+ctv3,2469.00,O/E - Systolic BP reading
+ctv3,246A.00,O/E - Diastolic BP reading
